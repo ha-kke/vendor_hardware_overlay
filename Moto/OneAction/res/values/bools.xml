@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<bool name="config_animateScreenLights">false</bool>
+<bool name="config_bluetooth_hfp_inband_ringing_support">true</bool>
+<bool name="config_dynamic_bind_ims">true</bool>
+<bool name="config_enableSoftOneNav">true</bool>
+<bool name="config_enableWifiDisplay">false</bool>
+<bool name="config_hotswapCapable">true</bool>
+<bool name="config_moto_microscreen_supported">false</bool>
+<bool name="config_setColorTransformAccelerated">true</bool>
+<bool name="config_showNavigationBar">true</bool>
+<bool name="config_supportSystemNavigationKeys">true</bool>
+<bool name="config_ui_enableFadingMarquee">false</bool>
+<bool name="config_unplugTurnsOnScreen">true</bool>
+<bool name="config_useDevInputEventForAudioJack">true</bool>
+<bool name="config_wifi_background_scan_support">true</bool>
+<bool name="config_wifi_connected_mac_randomization_supported">true</bool>
+<bool name="config_wifi_dual_band_support">true</bool>
+<bool name="config_wifi_fast_bss_transition_enabled">true</bool>
+<bool name="config_wifi_hs20_sim_mnc_mcc_retail">true</bool>
+<bool name="config_wifi_p2p_mac_randomization_supported">true</bool>
+<bool name="config_wifi_softap_acs_supported">true</bool>
+<bool name="skip_restoring_network_selection">true</bool>
+<bool name="wifi_trigger_disconnect_bug2go">true</bool>
+</resources>

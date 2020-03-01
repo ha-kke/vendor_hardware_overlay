@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="config_cameraLaunchGestureSensorStringType">com.motorola.sensor.camera_activate</string>
+<string name="config_ims_package">com.shannon.imsservice</string>
+<string name="config_mainBuiltInDisplayCutout">M -496,0 L -376,0 L -376,158 L -496,158 Z</string>
+<string name="config_mms_user_agent">motorola one action</string>
+<string name="config_motoCameraAppPackageName">com.motorola.camera2</string>
+<string name="config_radio_access_family">GSM|CDMA|EVDO|WCDMA|LTE</string>
+<string name="config_wifi_tcp_buffers">2097152,4194304,8388608,2097152,4194304,8388608</string>
+<string name="wifi_tether_configure_ssid_default">motorola one action</string>
+</resources>
